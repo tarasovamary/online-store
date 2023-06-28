@@ -1,0 +1,32 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+body {
+  @extend %font-prim;
+  @include font($size: 1.6rem, $height:2.1rem);
+  color: $color-text;
+}
+
+h1 {
+  @extend %font-prim;
+  @include font($size: 3.2rem, $height:5.4rem, $weight:800);
+}
+
+h2 {
+  @extend %font-prim;
+  @include font($size: 2.1rem, $height:3.8rem, $weight:800);
+  margin: 0;
+}
+
+.wrapper {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+

@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "title": "Приключения в замке Карак",
+        "description": "Стены замка разрушились и явили миру подземный лабиринт. По легенде, в нём полно сундуков с сокровищами.",
+        "price": 117.0,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "brand": "Zvezda",
+        "category": "Приключения",
+        "duration": 30,
+        "amount": 3,
+        "old": 16,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Karak/8873-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Karak/8873-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Karak/88731-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Karak/88732-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Ужас Аркхэма. Третья редакция: Секреты ордена",
+        "description": "Секреты ордена – масштабное дополнение к игре 'Ужас Аркхэма. Третья редакция', в котором вы сможете исследовать другие миры.",
+        "price": 130.0,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "brand": "Hobby World",
+        "category": "Карточная",
+        "duration": 250,
+        "amount": 10,
+        "old": 16,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Arkham_Horror/Secrets_of_the_Order/Uzhas_Arkhema_Sekrety_Ordena_01-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Arkham_Horror/Secrets_of_the_Order/Uzhas_Arkhema_Sekrety_Ordena_Back-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Arkham_Horror/Secrets_of_the_Order/Arkham_Sumerki_Card_1-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Arkham_Horror/Secrets_of_the_Order/Arkham_Sumerki_Tile-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Loonacy",
+        "description": "«Loonacy» — это весёлая быстрая игра на скорость, реакцию и внимание для компании до пяти человек. Быстрее всех избавьтесь от своих карточек, ничего не напутайте в этой неразберихе и победите!",
+        "price": 21.0,
+        "discountPercentage": 10,
+        "rating": 5,
+        "brand": "Hobby World",
+        "category": "Карточная",
+        "duration": 60,
+        "amount": 6,
+        "old": 16,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_Loonacy/Loonacy-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_Loonacy/Loonacy_06-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_Loonacy/Loonacy_05-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_Loonacy/Loonacy_02-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Рик и Морти: Близкие риконтакты риковой степени",
+        "description": "Игроки начинают только со своими волнами гения, но по ходу игры они будут получать новые, более мощные карты в свою колоду.",
+        "price": 78.0,
+        "discountPercentage": 10,
+        "rating": 4.3,
+        "brand": "Hobby World",
+        "category": "Карточная",
+        "duration": 35,
+        "amount": 4,
+        "old": 12,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Rick_and_Morty:%20Blizkie_Rickontakty_Rikovoy_Stepeni/Blizkie_Rickontakty_Rikovoy_Stepeni00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Rick_and_Morty:%20Blizkie_Rickontakty_Rikovoy_Stepeni/Blizkie_Rickontakty_Rikovoy_Stepeni01-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Rick_and_Morty:%20Blizkie_Rickontakty_Rikovoy_Stepeni/Blizkie_Rickontakty_Rikovoy_Stepeni02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Rick_and_Morty:%20Blizkie_Rickontakty_Rikovoy_Stepeni/Blizkie_Rickontakty_Rikovoy_Stepeni03-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Эволюция",
+        "description": "Настольная игра Эволюция – это уникальная игра о выживании и адаптации организмов для 2-4 человек, созданная кандидатом биологических наук Дмитрием Алексеевичем Кнорре.",
+        "price": 60.0,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "brand": "Правильные игры",
+        "category": "Головоломки",
+        "duration": 60,
+        "amount": 12,
+        "old": 15,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Pravilnye_igry/Evolution/IMG_6615-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Pravilnye_igry/Evolution/IMG_6622-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Pravilnye_igry/Evolution/IMG_6621-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Pravilnye_igry/Evolution/IMG_6620-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Виктроллина",
+        "description": "Уважаемые знатоки, добро пожаловать на первую в мире виктроллину! Не сомневаемся, вы эксперты по всему на свете, от географии и истории до нюансов поп-культуры.",
+        "price": 43.0,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "brand": "Magellan",
+        "category": "Головоломки",
+        "duration": 30,
+        "amount": 10,
+        "old": 12,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Viktrollina/viktrollina_01-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Viktrollina/viktrollina_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Viktrollina/viktrollina_03-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Viktrollina/viktrollina_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 7, 
+        "title": "Что? Где? Когда?",
+        "description": "Сегодня замечательный вечер – за игровым столом собралась отличная компания, готовая проявить себя в мозговом штурме в борьбе за победу, а значит, мы начинаем очередную игру серии Что? Где? Когда? текущего года!",
+        "price": 75.0,
+        "discountPercentage": 10, 
+        "rating": 5,
+        "brand": "Zvezda",
+        "category": "Головоломки",
+        "duration": 240,
+        "amount": 7,
+        "old": 15,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Chto_Gde_Kogda/Chto_Gde_Kogda00-1024x1024-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Chto_Gde_Kogda/Chto_Gde_Kogda00-1024x1024-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Chto_Gde_Kogda/Chto_Gde_Kogda01-1024x1024-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Chto_Gde_Kogda/Chto_Gde_Kogda02-1024x1024-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 8, 
+        "title": "Это Факт! Зоопарк",
+        "description": "Это Факт! Зоопарк — настольная карточная игра в жанре викторины, которая отлично развивает эрудицию, а также познакомит вас с обитателями Ленинградского зоопарка и их особенностями.",
+        "price": 18.0,
+        "discountPercentage": 10, 
+        "rating": 4.3, 
+        "brand": "GaGa Games",
+        "category": "Головоломки",
+        "duration": 90,
+        "amount": 5,
+        "old": 9,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Gaga/Eto_Fakt_Zoopark/1-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Gaga/Eto_Fakt_Zoopark/1-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Gaga/Eto_Fakt_Zoopark/Eto_Fakt_Zoopark_01-1024x1024-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Gaga/Eto_Fakt_Zoopark/Eto_Fakt_Zoopark_02-1024x1024-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Супервикторина",
+        "description": "Как хорошо вы помните школьную программу? Проверьте свои знания в интеллектуальной настольной игре Супервикторина.",
+        "price": 45.0,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "brand": "Десятое королевство",
+        "category": "Головоломки",
+        "duration": 60,
+        "amount": 8,
+        "old": 15,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/10_Korolevstvo/Superviktorina/Superviktorina_960-1024x1024-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/10_Korolevstvo/Superviktorina/Superviktorina_960-1024x1024-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/10_Korolevstvo/Superviktorina/Superviktorina_960_01-1024x1024-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/10_Korolevstvo/Superviktorina/Superviktorina_960_02-1024x1024-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "История рыцаря",
+        "description": "История рыцаря – это русская версия стратегии Glory: A Game of Knights, посвящённой великолепию средневековых рыцарских турниров.",
+        "price": 174.0,
+        "discountPercentage": 10,
+        "rating": 4.2,
+        "brand": "Hobby World",
+        "category": "Стратегические игры",
+        "duration": 120,
+        "amount": 4,
+        "old": 18,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Glory/glory_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Glory/glory_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Glory/glory_03-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Glory/glory_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Азул: Шоколатье",
+        "description": "Пришла пора отдохнуть от бесконечных украшательств то царских дворцов, то королевских садов, пора бы и подкрепиться. Король ценит своих верных подданных, и особенно таких талантливых мастеров, как вы, а потому и угощения вам подобают королевские!",
+        "price": 188.0,
+        "discountPercentage": 10,
+        "rating": 4.2,
+        "brand": "Zvezda",
+        "category": "Стратегические игры",
+        "duration": 120,
+        "amount": 12,
+        "old": 17,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Azul/Azul_Shokolatie/azul_shokolotye-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Azul/Azul_Shokolatie/azul_shokolotye_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Azul/Azul_Shokolatie/azul_shokolotye_03-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Zvezda/Azul/Azul_Shokolatie/azul_shokolotye_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 12, 
+        "title": "Интербеллум",
+        "description": "Наступила эпоха скоростных поездов, небоскрёбов, электричества и биржевых крахов. Добро пожаловать в Интербеллум!",
+        "price": 65.0,
+        "discountPercentage": 10,
+        "rating": 4.4,
+        "brand": "Hobby World",
+        "category": "Стратегические игры",
+        "duration": 35,
+        "amount": 5,
+        "old": 15,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Industrija/Interbellum/interbellum_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Industrija/Interbellum/interbellum_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Industrija/Interbellum/interbellum_03-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Industrija/Interbellum/interbellum_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Крошечные города",
+        "description": "Крошечные города - это уютная стратегия для всей семьи, которая предлагает игрокам попробовать себя в роли мэра.",
+        "price": 180.0,
+        "discountPercentage": 10,
+        "rating": 4,
+        "old": 5,
+        "brand": "GaGa Games",
+        "category": "Стратегические игры",
+        "duration": 15,
+        "amount": 3,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/0001M/101000881_0-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/0001M/101000881_0%20(1)-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001M/101000881_1-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001M/101000881_2-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 14, 
+        "title": "Метро 2033",
+        "description": " Перед нами классическая ресурсная стратегия с прямым противостоянием между игроками. Выбрав между шестью фракциями, игроки начинают войну за новые станции и ресурсы.",
+        "price": 190.0,
+        "discountPercentage": 10, 
+        "rating": 3.9,
+        "old": 15, 
+        "brand": "Hobby World",
+        "category": "Экономические игры",
+        "duration": 60,
+        "amount": 3,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/common/metro2033/metro2033-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/common/newfoto/metro11-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/common/newfoto/metro2-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/common/newfoto/metro3-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 15, 
+        "title": "Колонизаторы",
+        "description": "Пока мирные колонизаторы острова Катан трудятся на полях, лихие искатели приключений готовятся грабить, разбойничать и становиться пиратами.",
+        "price": 131.0,
+        "discountPercentage": 10,
+        "rating": 3.5,
+        "old": 6,
+        "brand": "Hobby World",
+        "category": "Экономические игры",
+        "duration": 35,
+        "amount": 4,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Kolonizatoru/Kolon_Junior/Junior-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Kolonizatoru/Kolon_Junior/Kolon_Junior_2-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Kolonizatoru/Kolon_Junior/Kolon_Junior_1-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Kolonizatoru/Kolon_Junior/Kolon_Junior_3-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Улицы",
+        "description": "Тихий городок где-то в глуши неожиданно стал очень популярным у туристов из-за редких археологических находок.",
+        "price": 109.0,
+        "discountPercentage": 10,
+        "rating": 3.3,
+        "old": 10,
+        "brand": "Magellan",
+        "category": "Экономические игры",
+        "duration": 40,
+        "amount": 5,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Streets/streets_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Streets/streets_00-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Streets/streets_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Magellan/Streets/streets_03-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Ярость Дракулы",
+        "description": "Ярость Дракулы. Третья редакция – это новое издание известной полукооперативной игры для 2-5 игроков, созданное по мотивам классического романа Брэма Стокера.",
+        "price": 173.0,
+        "discountPercentage": 10,
+        "rating": 4.2,
+        "old": 13,
+        "brand": "Hobby World",
+        "category": "Детективные игры",
+        "duration": 120,
+        "amount": 5,
+        "thumbnail": "https://igromaster.by/upload/iblock/b9a/b9a10a91893acc96bb66755995dc87c4.png",
+        "images": [
+            "https://igromaster.by/upload/iblock/3fa/3fa6e1e1aaf118008e16ddba31e1c27d.jpg",
+            "https://igromaster.by/upload/iblock/068/0681cf814866f4a622cc98079900893c.jpg",
+            "https://igromaster.by/upload/iblock/096/0967db055c9d657225c1f539585e0801.png"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Непостижимое",
+        "description": "Непостижимое – это настольная игра, созданная по мотивам лавкрафтовских мифов в стилистике Ужаса Аркхэма и на основе легендарной Battlestar Galactica.",
+        "price": 263.0, 
+        "discountPercentage": 10,
+        "rating": 4.8, 
+        "old": 13, 
+        "brand": "Hobby World",
+        "category": "Детективные игры",
+        "duration": 120,
+        "amount": 6,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Unfathomable/unfathomable_01-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Unfathomable/unfathomable_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Unfathomable/unfathomable_03-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Unfathomable/unfathomable_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Книга-игра Зов Ктулху", 
+        "description": "Ваш дальний родственник, о котором уже давно не было ничего слышно, скоропостижно скончался.",
+        "price": 26.0,
+        "discountPercentage": 10,
+        "rating": 4, 
+        "old": 16,
+        "brand": "Hobby World",
+        "category": "Детективные игры",
+        "duration": 120,
+        "amount": 1,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Choose_Chtulhu/choose_chtulhu_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Choose_Chtulhu/choose_chtulhu_00-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Choose_Chtulhu/choose_chtulhu_01-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Choose_Chtulhu/choose_chtulhu_03-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Нераскрытое дело Шерлока Холмса", 
+        "description": "В настольной игре Нераскрытое дело Шерлока Холмса игроки попадут в Лондон Викторианской эпохи и начнут там незабываемое приключение, полное сложных загадок и тайн.",
+        "price": 56.0,
+        "discountPercentage": 10,
+        "rating": 5,
+        "old": 13,
+        "brand": "Hobby World",
+        "category": "Детективные игры",
+        "duration": 120,
+        "amount": 8,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/0001/Sherlok_box-1024x1024-wm-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/tile-05-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/back-02-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/planshet8-1024x1024-wm-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Детектив: Игра о современном расследовании",
+        "description": "Игра Детектив: игра о современном расследовании предложит Вам нелегкую роль следователя правительственного агентства Антарес.",
+        "price": 180.0,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "old": 16,
+        "brand": "GaGa Games",
+        "category": "Детективные игры",
+        "duration": 120,
+        "amount": 5,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/hobbygames.minsk/DMCMain-1024x1024-wm-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/hobbygames.minsk/DMCBoard-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/hobbygames.minsk/DMCOfficers-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/hobbygames.minsk/DMCRules-1024x1024-wm-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Мафия",
+        "description": "Мафия. Вся семья в сборе - это психологическая командная игра с криминально-детективным сюжетом, придуманная  1986 году студентом факультета психологии МГУ и очень быстро ставшая популярной во всём мире.",
+        "price": 108.0,
+        "discountPercentage": 10,
+        "rating": 4,
+        "old": 14,
+        "brand": "Hobby World",
+        "category": "Детективные игры",
+        "duration": 20,
+        "amount": 16,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Mafia_semja/Mafia_semja-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Mafia_semja/Mafia_semja4-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Mafia_semja/Mafia_semja5-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Mafia_semja/Mafia_semja6-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Fluxx",
+        "description": "Описание скоро будет",
+        "price": 34.0,
+        "discountPercentage": 10,
+        "rating": 4.9,
+        "old": 8,
+        "brand": "Hobby World",
+        "category": "Игры в дорогу",
+        "duration": 30,
+        "amount": 6,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_new_Temp/Fluxx_3D_box_розн-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_new_Temp/Fluxx_3D_box_розн-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_2017/Fluxx_2017_06-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Fluxx/Fluxx_2017/Fluxx_2017_05-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Свинтус",
+        "description": "Итак, сражение за звание лучшего работника можно объявлять открытым! Не бойтесь, вам не придётся носиться за коллегой со степлером или убегать от начальника, подозрительно занёсшего монитор над вашей головой.",
+        "price": 21.0,
+        "discountPercentage": 10,
+        "rating": 3.7,
+        "old": 5,
+        "brand": "Hobby World",
+        "category": "Игры в дорогу",
+        "duration": 20,
+        "amount": 10,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Svintus/Svintus_2022/Swintus_new_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Svintus/Svintus_2022/Swintus_new_00-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Svintus/Svintus_2022/Swintus_new_02-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Svintus/Svintus_2022/Swintus_new_05-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "UNO Flip!",
+        "description": "Цель в игре UNO – избавиться от всех карт. Но когда у игрока остаётся только одна карта, он обязан выкрикнуть Уно!, то есть Один, иначе получит штраф.",
+        "price": 36.0,
+        "discountPercentage": 10,
+        "rating": 5,
+        "old": 7,
+        "brand": "Mattel",
+        "category": "Игры в дорогу",
+        "duration": 15,
+        "amount": 10,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/01/Uno_Flip-1024x1024-wm-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/01/Uno_Flip-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/01/Uno_Flip-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/01/Uno_Flip_01-1024x1024-wm-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Хвать-хвать",
+        "description": "Хвать-хвать – очень простая и занимательная настольная игра для самых маленьких любителей настолок.",
+        "price": 35.0,
+        "discountPercentage": 10,
+        "rating": 4.5,
+        "old": 5,
+        "brand": "Hobby World",
+        "category": "Игры в дорогу",
+        "duration": 10,
+        "amount": 5,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/0001/Hvat-hva-1024x1024-wm-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/Hvat-hva-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/Card_3-1024x1024-wm-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/0001/Hvat-hvat_dice-1024x1024-wm-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "День Сырка",
+        "description": "Итак, игроки пытаются превзойти друг друга по количеству собранных сырных «дырок». Все карты имеют от 1 до 6 «дырок», и чем их больше, тем выше вероятность того, что с другой стороны вы найдёте мышеловку.",
+        "price": 16.0,
+        "discountPercentage": 10,
+        "rating": 4.3,
+        "old": 5,
+        "brand": "Hobby World",
+        "category": "Игры в дорогу",
+        "duration": 15,
+        "amount": 6,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/hg/Den%20Syrka/Den_sirka-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/hg/Den%20Syrka/Den_sirka-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Den_sirka/sir3-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Den_sirka/sir2-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Соображарий: Герои",
+        "description": "Сможете назвать путешественника на букву Д? А пять знаменитых брюнетов или брюнеток? А если учесть, что на всё про всё вам даётся одна минута?",
+        "price": 21.0,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "old": 10,
+        "brand": "Hobby World",
+        "category": "Игры в дорогу",
+        "duration": 10,
+        "amount": 10,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Soobrajariy/Soobrajariy_Heroes/Soobrajariy_Heroes_00-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Soobrajariy/Soobrajariy_Heroes/Soobrajariy_Heroes_00-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Soobrajariy/Soobrajariy_Heroes/Soobrajariy_Heroes_01-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/HobbyWorld/Soobrajariy/Soobrajariy_Heroes/Soobrajariy_Heroes_04-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Пентаго",
+        "description": "Решили устроить настольную мозговую дуэль, а шашки и шахматы, честно говоря, поднадоели? Есть отличный вариант блеснуть умом перед соперником – сыграть с ним в крестики-нолики.",
+        "price": 86.0,
+        "discountPercentage": 10,
+        "rating": 3.2,
+        "old": 8,
+        "brand": "PlayLab",
+        "category": "Игры в дорогу",
+        "duration": 15,
+        "amount": 2,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Playlab/Pentago/Pentago1-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Playlab/Pentago/Pentago1-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Playlab/Pentago/Pentago_011-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Playlab/Pentago/Pentago_021-1000x416-wm.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Activity Travel",
+        "description": "Activity Travel - это оптимальная версия популярной игры, которою легко взять с собой, куда бы вы ни пошли.",
+        "price": 45.0,
+        "discountPercentage": 10,
+        "rating": 3.5,
+        "old": 8,
+        "brand": "Piatnik",
+        "category": "Игры в дорогу",
+        "duration": 99,
+        "amount": 12,
+        "thumbnail": "https://hobbygames.by/image/cache/hobbygames/data/Piatnik/Activity_travel/Activ_travel-1000x416-wm.jpg",
+        "images": [
+            "https://hobbygames.by/image/cache/hobbygames/data/Piatnik/Activity_travel/Activ_travel-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Piatnik/Activity_travel/Activ_travel_2-1000x416-wm.jpg",
+            "https://hobbygames.by/image/cache/hobbygames/data/Piatnik/Activity_travel/Activ_travel_3-1000x416-wm.jpg"
+        ]
+    }
+]

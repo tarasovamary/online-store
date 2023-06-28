@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BoardGameStore</title>
+    <link rel="shortcut icon" href="/img/icon-dices.png" type="image/png">
+  </head>
+  <body>
+    <header class="header">
+      <div class="wrapper header__wrapper">
+        <a href="#mainPage" class="header__logo">
+          <img src="/img/icon-dices.png" alt="Logo" width="70" height="70" />
+          <h1><span class="title-letter">B</span>oard <span class="title-letter">G</span>ames <span class="title-letter">S</span>tore</h1>
+        </a>
+        <!--Поисковая строка-->
+        <div class="header__search">
+          <!-- <form action="header__search_form"> -->
+            <input
+              id="searchBar"
+              type="search"
+              class="header__search_input"
+              name="keyword"
+              placeholder="Что ищем?"
+              autocomplete="off"
+            />
+            <button class="header__search_submit" type="submit">
+              <span class="header__search_icon">
+                <img src="/img/icon-search.png" alt="Submit" width="20" height="20">
+              </span>
+            </button>
+          <!-- </form> -->
+        </div>
+        <!--Корзина-->
+        <a href="#cart" class="header__shoping-cart" id="shoping-cart" style="text-decoration: none; color: rgb(77, 77, 77);">
+          <div class="header__shoping-cart_info">
+            <span class="header__shoping-cart_icon">
+              <img src="/img/icon-shopping-cart.png" alt="Shpping Cart" width="20" height="20">
+            </span>
+            <span class="header__shoping-cart_count">0</span>
+            <span class="header__shoping-cart_countPrice">0 руб.</span>
+            <span class="header__shoping-cart_label">Корзина</span>
+          </div>
+        </a>
+      </div>
+    </header>
+    <main class="main">
+     
+    </main>
+    <footer class="footer">
+      <div class="wrapper footer__wrapper">
+        <div class="footer-link">
+          <div class="github__icon">
+            <img
+              src="img/icon-github.png"
+              width="35"
+              height="35"
+              alt="Icon GitHub"
+            />
+            <p class="github__title">GitHub:</p>
+          </div>
+          <div class="github__links">
+            <a class="text" href="https://github.com/tarasovamary"> Mariya Tarasova</a>
+            <a class="text" href="https://github.com/AcademeG1"> Michail Ignatovich</a>
+          </div>
+        </div>
+        <div class="rsschool__logo">
+          <a href="https://rs.school/js/">
+            <img
+              src="img/icon-rs_school.svg"
+              width="120"
+              height="120"
+              alt="Icon RSSchool"
+            />
+          </a>
+        </div>
+        <div class ="footer-info">
+          <span>2022</span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

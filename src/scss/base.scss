@@ -1,0 +1,20 @@
+@import 'abstracts/mixins';
+@import 'abstracts/placeholders';
+@import 'abstracts/constants';
+
+@import 'base/base';
+@import 'base/fonts';
+@import 'base/normalize';
+
+@import 'layouts/header';
+@import 'layouts/main';
+@import 'layouts/footer';
+@import 'layouts/cards-description';
+
+@import 'components/cards';
+@import 'components/filters';
+@import 'components/nouislider';
+@import 'components/modal';
+@import 'components/cart';
+
+

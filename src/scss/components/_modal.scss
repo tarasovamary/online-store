@@ -1,0 +1,115 @@
+.modal__overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal__window {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(127, 182, 189);
+  border-radius: 10px;
+  padding: 10px 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  box-shadow: 0px 2px 5px rgb(18 19 22 / 10%);
+}
+
+.modal__content {
+  text-align: center;
+}
+
+.modal__title {
+  @include font($size:1.8rem, $height:2.8rem, $weight:600);
+  margin: 10px auto;
+  color: $color-text;
+  text-shadow: 0px 2px 5px rgb(18 19 22 / 10%);
+}
+
+.hidden {
+  display: none;
+}
+
+.inputs__container {
+  display: flex;
+  flex-direction: column;
+  // align-items: center;
+  gap: 10px;
+  .input {
+    height: 30px;
+    border: 2px solid $color-text;
+  }
+}
+
+.input {
+  border: 2px solid $color-text;
+  border-radius: 5px;
+  &::placeholder {
+    @include font($size:1.4rem, $height:2.1rem);
+    text-align: center;
+  }
+}
+
+.card__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  border: 2px solid $color-text;
+  border-radius: 10px;
+  background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(242,208,95,1) 0%, rgba(238,108,61,1) 100%);
+  box-shadow: 0px 2px 5px rgb(18 19 22 / 10%);
+}
+
+.card__container_valid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.card__container_number {
+  width: 100%;
+  margin-bottom: 25px;
+  .card-number {
+    width: 100%;
+  }
+}
+
+.title_valid, .title_cvv {
+  @include font($size:1.2rem, $height:2.1rem, $weight:600);
+  text-align: center;
+  vertical-align:middle;
+}
+
+.card-expired, .card-cvv {
+  width: 20%;
+  height: 25px;
+  @include font($size:1.4rem, $height:1.8rem);
+}
+
+.chip-icon {
+  width: 25px;
+  height: 25px;
+}
+.card__container_icon {
+  align-self:flex-start;
+}
+
+.button_modal {
+  height: 32px;
+  width: 30%;
+  margin-top: 20px;
+}
